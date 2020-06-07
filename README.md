@@ -11,3 +11,9 @@ Open source process for delivery of value
 - Competitive Advantage (Michael Porter)
 - Horizons (Mehrdad Baghai, Steve Coley, David White)
 - Disruption (Clayton Christensen)
+
+## Methodologies
+
+- Lean Manufacturing
+- Design Thinking
+- Agile Development
