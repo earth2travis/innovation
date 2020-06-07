@@ -5,6 +5,9 @@ Open source delivery of value. Standardized process for taking ideas to market.
 ## Phases
 
 - Ideation
+  - Vision
+  - Mission (Challenge Statement)
+  - Research
 - Validation
 - Implementation
 
