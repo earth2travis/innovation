@@ -6,7 +6,7 @@ Open source process for delivery of value
 
 ### Fundamentals
 
-- Risks
+- [Risks](./risks.md)
 - Segmentation
 - Competitive Advantage
 - Horizons
