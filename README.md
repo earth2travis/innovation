@@ -1,6 +1,12 @@
 # Innovation
 
-Open source process for delivery of value
+Open source delivery of value. Standardized process for taking ideas to market.
+
+## Phases
+
+- Ideation
+- Validation
+- Implementation
 
 ## Topics
 
