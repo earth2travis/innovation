@@ -12,6 +12,8 @@ Open source delivery of value. Standardized process for taking ideas to market.
 
 ### Incubation
 
+Select target segment. Prioritize problems. Validate value proposition.
+
 - Vision
 - Mission (Challenge Statement)
 - Research
