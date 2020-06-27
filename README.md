@@ -2,6 +2,12 @@
 
 Open source delivery of value. Standardized process for taking ideas to market.
 
+## Types
+
+- Disruptive
+- Continuous
+- Process
+
 ## Phases
 
 - Incubation
