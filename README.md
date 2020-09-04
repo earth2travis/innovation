@@ -31,13 +31,18 @@ Select target segment. Prioritize problems. Validate value proposition.
 ### Fundamentals
 
 - [Risks](./topics/risks.md)
-- Segmentation (Geoffrey Moore)
+- Technology Adoption (Geoffrey Moore)
 - Competitive Advantage (Michael Porter)
 - Horizons (Mehrdad Baghai, Steve Coley, David White)
 - Disruption (Clayton Christensen)
+- Hero's Journey (Joseph Campbell)
 
 ## Methodologies
 
 - Lean Manufacturing
 - Design Thinking
 - Agile Development
+
+## Techniques
+
+- 5 Whys
